@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DailyFPS</string>
+    <string name="action_settings">Settings</string>
+    <string name="interpreting_uv">Sobre raios UV</string>
+    <string name="start_string">Faça a pesquisa sobre o índice de raios UV na sua cidade e se proteja!</string>
+    <string name="button_label">pesquisar</string>
+    <string name="no_location_detected">GPS não detectado. Certifique-se que seu GPS está ativo e que a APP tenha permissão de acesso ao serviço.</string>
+    <string name="no_connetion_detected">Conexão com internet não detectada. Certifique-se que está com conexão ativa.</string>
+    <string name="title_activity_display_explain">Coisas que você deve saber</string>
+
+    <string name="explain_uv">Ao interpretar o Índice UV e recomendações, esteja ciente de que:\n\n
+        * A intensidade da radiação UV que atinge a superfície da terra depende do ângulo do sol no céu. Cada dia, o sol atinge o seu maior ângulo (maior intensidade, mais curtas sombras) ao meio-dia solar, o que só corresponde aproximadamente às 12:00. Isso é por causa das diferenças entre o tempo solar e a hora local em um determinado fuso horário. Em geral, o risco de UV é alto quando o sol está diretamente em cima o suficiente para que as sombras das pessoas fiquem mais curtas do que sua altura.\n\n
+        * Da mesma forma, uma intensidade de UV pode ser maior ou menor para as superfícies em ângulos diferentes em relação à horizontal. Por exemplo, se a pessoa está andando ou em pé ao ar livre, a exposição UV para os olhos e superfícies verticais da pele, como a face, pode realmente ser mais grave quando o sol está mais baixo, tais como o fim de um dia de verão, ou tardes de inverno em uma pista de esqui. Isto é em parte uma consequência do fato de o equipamento de medição em que o índice baseia-se numa superfície horizontal plana.\n\n
+        * Intensidade da radiação UV pode quase dobrar com reflexão de neve ou outras superfícies brilhantes, como água, areia ou concreto.\n\n
+        * As recomendações dadas são para adultos médios com pele levemente bronzeada. Aqueles com pele mais escura são mais propensos a resistir a uma maior exposição ao sol, enquanto precauções extras são necessárias para crianças, idosos, adultos particularmente de pele clara, e aqueles que têm maior sensibilidade ao sol por razões médicas ou de exposição aos raios UV em dias anteriores. (Recuperação da pele da radiação UV geralmente leva dois dias ou mais para o seu curso.)\n\n
+        * Devido à maneira como o Índice de UV é calculado, é tecnicamente expressa o risco de queimaduras solares em desenvolvimento, que é causado principalmente por radiação UV. No entanto, a radiação UV também provoca danos (fotoenvelhecimento, melanoma). Sob certas condições, incluindo a maioria das camas de bronzeamento, o nível UVA pode ser desproporcionalmente maior do que o descrito pelo Índice UV. A utilização de amplo espectro (UVA / UVB) protetor solar pode ajudar a resolver esta preocupação.</string>
+</resources>
